@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1de794cd.css",
-    "main.js": "/static/js/main.9b7e955a.js",
+    "main.js": "/static/js/main.04a5b7e2.js",
     "static/media/champions-league-trophy.png": "/static/media/champions-league-trophy.e53459aa5977594e150c.png",
     "static/media/zoho_puvi_semibold-webfont.woff": "/static/media/zoho_puvi_semibold-webfont.02a60948cefcbee46a8d.woff",
     "static/media/zoho_puvi_medium-webfont.woff": "/static/media/zoho_puvi_medium-webfont.07c9f5435631c29dfbfc.woff",
@@ -25,10 +25,10 @@
     "static/media/zoho_puvi_black-webfont.woff2": "/static/media/zoho_puvi_black-webfont.33ec3871b5bd20c50cba.woff2",
     "index.html": "/index.html",
     "main.1de794cd.css.map": "/static/css/main.1de794cd.css.map",
-    "main.9b7e955a.js.map": "/static/js/main.9b7e955a.js.map"
+    "main.04a5b7e2.js.map": "/static/js/main.04a5b7e2.js.map"
   },
   "entrypoints": [
     "static/css/main.1de794cd.css",
-    "static/js/main.9b7e955a.js"
+    "static/js/main.04a5b7e2.js"
   ]
 }
